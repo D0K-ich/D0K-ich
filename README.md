@@ -20,6 +20,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me:     <a href="https://vk.com/c.tacuk" target="_blank">
       <img src="https://tica.pro/wp-content/uploads/2022/04/tica-vk.png" width="40" height="40"  alt="VK Badge"/>
     </a>
+    [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dok_ich) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yjrurubyu20015@gmail.com)
 ---
 
 # :hammer_and_wrench: Languages, Tools and Frameworks :
