@@ -17,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles, also take courses on Stepik and Codewars.
 
-- :mailbox:How to reach me:     <a href="https://vk.com/c.tacuk" target="_blank">
+- :mailbox:How to reach me:     <a href="https://vk.com/dok_ich" target="_blank">
       <img src="https://tica.pro/wp-content/uploads/2022/04/tica-vk.png" width="40" height="40"  alt="VK Badge"/>
     </a>
     [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dok_ich) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yjrurubyu20015@gmail.com)
