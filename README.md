@@ -9,7 +9,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me <a href="https://wakatime.com/badge/github/D0K-ich/TimeTracking"><img src="https://wakatime.com/badge/github/D0K-ich/TimeTracking.svg" alt="wakatime"></a>:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -50,13 +50,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D0K-ich&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=D0K-ich&theme=hacker&hide_border=true&border_radius=15.5)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0K-ich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-
 
 ### 📖 Пройденные курсы:
 
