@@ -19,7 +19,7 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles, also take tasks on Codewars.
 
 - :mailbox:How to contact me:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-4B0082?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dok_ich) [![Gmail Badge](https://img.shields.io/badge/-Gmail-4B0082?style=flat&logo=Gmail&logoColor=white)](mailto:yjrurubyu20015@gmail.com) [![VK Badge](https://img.shields.io/badge/-VK-4B0082?style=flat&logo=VK&logoColor=white)](https://vk.com/dok_ich) [![Steam Badge](https://img.shields.io/badge/-Steam-4B0082?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198388152878/](https://steamcommunity.com/profiles/76561198388152878/))
-- 
+  
 ---
 
 ### Languages
