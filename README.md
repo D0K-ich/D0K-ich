@@ -6,45 +6,43 @@
 </h1>
   </h1>
 
+  ![](https://komarev.com/ghpvc/?username=D0k-ich&label=PROFILE+VIEWS&style=flat&color=blueviolet)
+
 ---
 
 ### :man_technologist: About Me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles, also take courses on Stepik and Codewars.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles, also take tasks on Codewars.
 
-- :mailbox:How to reach me:     <a href="https://vk.com/dok_ich" target="_blank">
-      <img src="https://tica.pro/wp-content/uploads/2022/04/tica-vk.png" width="40" height="40"  alt="VK Badge"/>
-    </a>
-    [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dok_ich) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yjrurubyu20015@gmail.com)
+- :mailbox:How to contact me:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-4B0082?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dok_ich) [![Gmail Badge](https://img.shields.io/badge/-Gmail-4B0082?style=flat&logo=Gmail&logoColor=white)](mailto:yjrurubyu20015@gmail.com) [![VK Badge](https://img.shields.io/badge/-VK-4B0082?style=flat&logo=VK&logoColor=white)]([https://vk.com/dok_ich](https://vk.com/dok_ich)) [![Steam Badge](https://img.shields.io/badge/-Steam-4B0082?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198388152878/](https://steamcommunity.com/profiles/76561198388152878/))
 ---
 
-# :hammer_and_wrench: Languages, Tools and Frameworks :
-<div>
-  <h2>Langues:</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go Lang" alt="Go Lang" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <h2>Tools:</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" **alt="Atom" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" **alt="Mongo" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" **alt="NumPy" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Torch" **alt="Torch" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vs" **alt="VS" width="40" height="40"/>
-  <h2>Frameworks:</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
+### Languages
+
+
+![GO](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![HTML](https://img.shields.io/badge/-HTML-000?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=Css3)
+
+### Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![POSGRESQL](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
 ### :fire: My Stats :
@@ -53,13 +51,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0K-ich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### 📖 Пройденные курсы:
-
-- https://stepik.org/course/38218/syllabus - "Веб-разработка для начинающих: HTML и CSS". Сертификат: https://stepik.org/cert/1196865
-- https://stepik.org/course/67/syllabus - "Программирование на Python". Сертификат: https://stepik.org/cert/1169940
-- https://stepik.org/course/2223/syllabus - "JavaScript для начинающих". Сертификат: https://stepik.org/cert/1147302
-
 
 <p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31obkvcv6v4uaq7euhizamvlfwva&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4f4eb1&bar_color_cover=true">
