@@ -1,11 +1,10 @@
 <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5BCD00&background=FF3F9400&random=false&width=435&lines=Wake+up,+Neo...;The+matrix+has+you...;Folow+the+white+rebbit.;Knok,+knok,+Neo&center=true&size=30">
+  </a>
+</h1>
   </h1>
-</div>
-<div align="center" >
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -47,7 +46,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=D0K-ich&theme=hacker&hide_border=true&border_radius=15.5)](https://git.io/streak-stats)
@@ -61,3 +59,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - https://stepik.org/course/38218/syllabus - "Веб-разработка для начинающих: HTML и CSS". Сертификат: https://stepik.org/cert/1196865
 - https://stepik.org/course/67/syllabus - "Программирование на Python". Сертификат: https://stepik.org/cert/1169940
 - https://stepik.org/course/2223/syllabus - "JavaScript для начинающих". Сертификат: https://stepik.org/cert/1147302
+
+
+<p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31obkvcv6v4uaq7euhizamvlfwva&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4f4eb1&bar_color_cover=true">
+</p>
