@@ -19,6 +19,7 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles, also take tasks on Codewars.
 
 - :mailbox:How to contact me:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-4B0082?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dok_ich) [![Gmail Badge](https://img.shields.io/badge/-Gmail-4B0082?style=flat&logo=Gmail&logoColor=white)](mailto:yjrurubyu20015@gmail.com) [![VK Badge](https://img.shields.io/badge/-VK-4B0082?style=flat&logo=VK&logoColor=white)](https://vk.com/dok_ich) [![Steam Badge](https://img.shields.io/badge/-Steam-4B0082?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561198388152878/](https://steamcommunity.com/profiles/76561198388152878/))
+- 
 ---
 
 ### Languages
@@ -33,8 +34,9 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=Css3)
 
+---
 
-### Technologies
+### Technologies 
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -45,15 +47,19 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 ![POSGRESQL](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
+---
 
 ### :fire: My Stats : 
-[![GitHub Streak](https://streak-stats.demolab.com?user=D0K-ich&theme=hacker&hide_border=true&border_radius=15.5)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0K-ich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img height = "200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0K-ich&layout=compact&theme=vision-friendly-dark">
+    <img height = "200" left="100" src="https://streak-stats.demolab.com?user=D0K-ich&theme=hacker&hide_border=true&border_radius=15.5">
+</div>
 
 ---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=D0K-ich&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+
+---
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -66,7 +72,8 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 <h4 align="center">
   <a href="https://github.com/D0K-ich?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
+    
+---
 
 <p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31obkvcv6v4uaq7euhizamvlfwva&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4f4eb1&bar_color_cover=true">
