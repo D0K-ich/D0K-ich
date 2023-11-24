@@ -52,14 +52,16 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D0K-ich&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/D0K-ich/Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Portfolio&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/D0K-ich/Yacht-by-Ilya-and-Dok" title="Yacht"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0K-ich&repo=Yacht-by-Ilya-and-Dok&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/D0K-ich/Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Portfolio&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a><a align="right" href="https://github.com/D0K-ich/Yacht-Seller-by-Dok" title="Yacht"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0K-ich&repo=Yacht-Seller-by-Dok&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/D0K-ich/Poker" title="Poker"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Poker&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/D0K-ich/Poker" title="Poker"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Poker&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
