@@ -52,6 +52,20 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/D0K-ich/Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Portfolio&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/D0K-ich/Yacht-by-Ilya-and-Dok" title="Yacht"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0K-ich&repo=Yacht-by-Ilya-and-Dok&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/D0K-ich/Poker" title="Poker"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Poker&theme=react&border_color=61dafb&border_radius=10"></a>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/D0K-ich?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 <p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31obkvcv6v4uaq7euhizamvlfwva&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4f4eb1&bar_color_cover=true">
 </p>
