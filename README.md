@@ -23,7 +23,7 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ### Languages
 
-
+    
 ![GO](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -32,6 +32,7 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=Css3)
+
 
 ### Technologies
 
@@ -45,7 +46,7 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
-### :fire: My Stats :
+### :fire: My Stats : 
 [![GitHub Streak](https://streak-stats.demolab.com?user=D0K-ich&theme=hacker&hide_border=true&border_radius=15.5)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0K-ich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,11 +63,10 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="center" href="https://github.com/D0K-ich/Poker" title="Poker"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Poker&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a>
-<br/><br/>
-
 <h4 align="center">
   <a href="https://github.com/D0K-ich?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
 
 <p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31obkvcv6v4uaq7euhizamvlfwva&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4f4eb1&bar_color_cover=true">
