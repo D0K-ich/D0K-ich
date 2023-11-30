@@ -68,7 +68,10 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/D0K-ich/Poker" title="Poker"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Poker&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a>
+  <a align="left" href="https://github.com/D0K-ich/Poker" title="Poker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Poker&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a><a align="right" href="https://github.com/D0K-ich/ProtocCodeGen" title="Protogen"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=ProtocCodeGen&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a>
+    <br/><br/><br/><br/><br/><br/>
+
+    
 <h4 align="center">
   <a href="https://github.com/D0K-ich?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
