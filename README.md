@@ -1,7 +1,7 @@
 <h1>
     <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5BCD00&background=FF3F9400&random=false&width=435&lines=Wake+up,+Neo+.+.+.;The+matrix+has+you+.+.+.;Folow+the+white+rebbit.;Knok,+knok,+Neo&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BF91F3&background=FF3F9400&random=false&width=435&lines=Wake+up,+Neo+.+.+.;The+matrix+has+you+.+.+.;Folow+the+white+rebbit.;Knok,+knok,+Neo&center=true&size=30">
   </a>
 </h1>
   </h1>
@@ -10,7 +10,7 @@
 
 ---
 
-### :man_technologist: About Me:
+### About Me:
 I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 - :telescope: I’m working as a Software Engineer and contributing tobackend for building web and descktop applications.
 
@@ -49,26 +49,26 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### :fire: My Stats : 
+### My Stats : 
 <div>
-    <img height = "200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0K-ich&layout=compact&theme=vision-friendly-dark">
-    <img height = "200" left="100" src="https://streak-stats.demolab.com?user=D0K-ich&theme=hacker&hide_border=true&border_radius=15.5">
+    <img height = "200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0K-ich&layout=compact&theme=tokyonight&border_color=111&border_radius=10&">
+    <img height = "200" left="100" src="https://streak-stats.demolab.com?user=D0K-ich&theme=tokyonight&hide_border=true&border_color=4B0082&border_radius=10&">
 </div>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D0K-ich&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D0K-ich&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 background-color="111" align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/D0K-ich/Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Portfolio&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a><a align="right" href="https://github.com/D0K-ich/Yacht-Seller-by-Dok" title="Yacht"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0K-ich&repo=Yacht-Seller-by-Dok&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a>
+  <a align="left" href="https://github.com/D0K-ich/Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Portfolio&theme=react&border_color=111&border_radius=10&bg_color=111&title_color=70A5FD&text_color=BF91F3"></a><a align="right" href="https://github.com/D0K-ich/Yacht-Seller-by-Dok" title="Yacht"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0K-ich&repo=Yacht-Seller-by-Dok&theme=react&border_color=111&border_radius=10&bg_color=111&title_color=70A5FD&text_color=BF91F3"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/D0K-ich/Poker" title="Poker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Poker&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a><a align="right" href="https://github.com/D0K-ich/ProtocCodeGen" title="Protogen"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=ProtocCodeGen&theme=react&border_color=4B0082&border_radius=10&bg_color=20232a"></a>
+  <a align="left" href="https://github.com/D0K-ich/Poker" title="Poker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=Poker&theme=react&border_color=111&border_radius=10&bg_color=111&title_color=70A5FD&text_color=BF91F3"></a><a align="right" href="https://github.com/D0K-ich/ProtocCodeGen" title="Protogen"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=D0k-ich&repo=ProtocCodeGen&theme=react&border_color=111&border_radius=10&bg_color=111&title_color=70A5FD&text_color=BF91F3"></a>
     <br/><br/><br/><br/><br/><br/>
 
     
