@@ -53,7 +53,7 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 <div >
     <img height = "200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0K-ich&layout=compact&theme=tokyonight&border_color=111&border_radius=10&">
     <img height = "200" left="100" src="https://streak-stats.demolab.com?user=D0K-ich&theme=tokyonight&hide_border=true&border_color=4B0082&border_radius=10&">
-    <img src="https://leetcard.jacoblin.cool/D0K-ich?theme=unicorn&font=ABeeZee&ext=activity&width=507&height=50&border=0&radius=20">
+    <img src="https://leetcard.jacoblin.cool/D0K-ich?theme=unicorn&font=ABeeZee&ext=activity&width=507&height=50&border=0&radius=20"> <!-- //contest -->
     
 </div>
 
