@@ -85,5 +85,5 @@ I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 <p align="center">
-  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31obkvcv6v4uaq7euhizamvlfwva&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4f4eb1&bar_color_cover=true">
+  <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31obkvcv6v4uaq7euhizamvlfwva&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=4f4eb1&bar_color_cover=true">
 </p>
