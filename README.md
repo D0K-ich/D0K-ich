@@ -11,7 +11,7 @@
 ---
 
 ### About Me:
-I am a Back-end junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+I am a Fullstack senior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a Software Engineer and contributing tobackend for building web and descktop applications.
 
 - :seedling: Exploring Technical Content Writing.
